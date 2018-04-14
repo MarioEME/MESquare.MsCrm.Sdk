@@ -1,0 +1,10 @@
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\MESquare.MsCrm.Sdk.dll
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\MESquare.MsCrm.Sdk.pdb
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\Microsoft.Xrm.Sdk.dll
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\bin\Release\Microsoft.Xrm.Sdk.xml
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\obj\Release\MESquare.MsCrm.Sdk.csprojResolveAssemblyReference.cache
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\obj\Release\MESquare.MsCrm.Sdk.csproj.CoreCompileInputs.cache
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\obj\Release\MESquare.MsCrm.Sdk.dll
+E:\Dropbox\Personal\Dev\GitHub\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\obj\Release\MESquare.MsCrm.Sdk.pdb
