@@ -1,5 +1,5 @@
 .vs/*
-bin/*
-obj/*
+MESquare.MsCrm.Sdk/bin/*
+MESquare.MsCrm.Sdk/obj/*
 packages/*
 *.pfx
